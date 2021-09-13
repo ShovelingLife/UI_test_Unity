@@ -1,0 +1,4 @@
+﻿ITEM_ID,ITEM_CODE,ITEM_QUANTITY,[TYPE],,,[EX_ITEM_ID],,,,[ITEM_ID_EX],[ITEM_ID_TYPE]
+id000011011,item_sprite_sheet_109,4,WOOD_STICK,,,[*[0] 1],[*[3] 4],[*[6] 7],,[1],[BASIC_WOOD]
+id100122100,item_sprite_sheet_94,1,WOOD_PICKAXE,,,[*[1] 2],[*[4] 5],[*[7] 8],,[2],[BASIC_WOOD_STICK]
+,,,,,,[*[2] 3],[*[5] 6],[*[8] 9],,,
